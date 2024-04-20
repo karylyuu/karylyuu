@@ -8,8 +8,7 @@
   </samp>
 </p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
+<h3 align="left"> 🛠 Languages and Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
@@ -26,9 +25,8 @@
 
 <h3 align="left"> 💌 Connect with me</h3>
 <p align="left">
-  <a href="mailto:hyunseo7371@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+  <a href="https://open.kakao.com/me/karylyuu"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=https://open.kakao.com/me/karylyuu"/></a>&nbsp
+  <a href="mailto:hyunseo7371@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
