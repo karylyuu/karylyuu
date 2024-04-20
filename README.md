@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=40&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyeondong+Github)](https://git.io/typing-svg)
 
-<h2 align="center"> 🚀 About Me</h2>
-<p align="center">
+<h2 align="left"> 🚀 About Me</h2>
+<p align="left">
   <samp>I have developed my expertise in software development and my ability to design algorithms by analyzing data in various fields, and I will continue to gain skills and experience and contribute to my studies.
   </samp>
 </p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"></a>&nbsp <br>
@@ -18,14 +18,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"></a>&nbsp <br>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white">
 </p>
 
-<h3 align="center"> 📫 How to reach me</h3>
-<p align="center">
-  <a href="hyunseo7371@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<h3 align="left"> 📫 How to reach me</h3>
+<p align="left">
+  <a href="mailto:hyunseo7371@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
