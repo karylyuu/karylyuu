@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=40&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyeondong+Github)](https://git.io/typing-svg)
 
-<h2 align="left"> 🚀 About Me</h2>
+<h2 align="left"> ⬢ Insight</h2>
 <p align="left">
-  <samp>I have developed my expertise in software development and my ability to design algorithms by analyzing data in various fields, and I will continue to gain skills and experience and contribute to my studies.
+  <samp>Il popolo molte volte desidera la rovina sua, ingannato da una falsa specie di bene.
   </samp>
 </p>
 
