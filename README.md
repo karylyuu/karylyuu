@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=40&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyeondong+Github)](https://git.io/typing-svg)
 
-<h2 align="left"> ⬢ Insight</h2>
+<h2 align="left"> 🖋️ Philosophy</h2>
 <p align="left">
   <samp>Il popolo molte volte desidera la rovina sua, ingannato da una falsa specie di bene.
   </samp>
