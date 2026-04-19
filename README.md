@@ -4,7 +4,7 @@
 
 <h2 align="left"> 🖋️ Philosophy</h2>
 <p align="left">
-  <samp>Il popolo molte volte desidera la rovina sua, ingannato da una falsa specie di bene
+  <samp>Il popolo molte volte desidera la rovina sua, ingannato da una falsa specie di bene.
   </samp>
 </p>
 
